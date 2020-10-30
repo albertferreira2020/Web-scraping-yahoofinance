@@ -1,0 +1,19 @@
+{
+  "name": "webscrapingyahoo",
+  "version": "1.0.0",
+  "description": "Web Scraping from yahoofinance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Web-scraping-yahoofinance"
+  },
+  "author": "Albert Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^3.3.0",
+    "yahoo-finance": "^0.3.6"
+  }
+}
