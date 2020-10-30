@@ -1,4 +1,4 @@
-# Web-scraping-yahoofinance
+# Web Scraping with Yahoofinance
 Realizing scrape with the api yahoo finance to database SQLServer and all this with the fantastic node.js<br>
 First create your table, please read the file CreateTable.txt
 
