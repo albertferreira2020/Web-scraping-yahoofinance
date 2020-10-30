@@ -1,7 +1,6 @@
 # Web-scraping-yahoofinance
 Realizing scrape with the api yahoo finance to database SQLServer
-
-# First create your table, please read the file CreateTable.txt
+First create your table, please read the file CreateTable.txt
 
 
 
